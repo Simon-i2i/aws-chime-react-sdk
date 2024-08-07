@@ -1,2 +1,2 @@
-# aws-chime-react-sdk
+# chime-sdk-test-meeting
 Created with CodeSandbox
